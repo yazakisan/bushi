@@ -10,63 +10,75 @@ h2 {
   }
 
 h3{
-    color: green;
+    color: rgb(207, 233, 59);
     font-size: 45pt;
 }
 
 h4{
-  color: green;
+  color: blue;
   font-size: 45pt;
 }
 
 h5{
-  color: green;
+  color: orange;
   font-size: 45pt;
 }
 
 h6{
-  color: green;
+  color: rgb(198, 80, 202);
   font-size: 45pt;
 }
 
 h7{
-  color: green;
+  color: rgb(252, 236, 14);
   font-size: 45pt;
   font-weight: bold;
 }
 
 h8{
-  color: green;
+  color: rgb(39, 187, 143);
   font-size: 45pt;
   font-weight: bold;
 }
 
 h9{
-  color: green;
+  color: rgb(22, 239, 255);
   font-size: 45pt;
   font-weight: bold;
 }
 
 h10{
-  color: green;
+  color: rgb(216, 80, 80);
   font-size: 45pt;
   font-weight: bold;
 }
 
 h11{
-  color: green;
+  color: rgb(82, 250, 49);
   font-size: 45pt;
   font-weight: bold;
 }
 
 h12{
-  color: green;
+  color: rgb(210, 33, 216);
   font-size: 45pt;
   font-weight: bold;
 }
 
 h13{
-  color: green;
+  color: rgb(116, 207, 116);
   font-size: 45pt;
   font-weight: bold;
+}
+
+h14{
+  color: rgb(22, 121, 235);
+  font-size: 45pt;
+  font-weight: bold;
+}
+
+p{
+  color: green;
+  font-size: 20pt;
+  font-weight: bold; 
 }
